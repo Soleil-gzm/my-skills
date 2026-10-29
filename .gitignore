@@ -1,2 +1,4 @@
 download_skills/
 .vscode/
+*.backup
+metadata.json
